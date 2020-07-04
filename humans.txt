@@ -3,7 +3,9 @@
 
 # TEAM
 
-    <name> Akshay Gadgil <twitter>
+   Akshay Gadgil
+   gadgilssakshay@gmail.com
+   Business Objects Administrator
 
 # THANKS
 
