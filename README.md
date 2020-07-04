@@ -9,6 +9,7 @@ Sample website with plenty of files for demos
 
 #Introduction
 A lot of lectures are already taken.
+And a lot of lectures are remaining.
 
 #GIT and GITHUB training
 This is the a very good training course for DevOps.
