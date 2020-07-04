@@ -12,3 +12,6 @@ A lot of lectures are already taken
 
 #GIT and GITHUB training
 This is the a very good training course for DevOps
+
+#Contribution
+Fork the Repo and raise pull request for review
