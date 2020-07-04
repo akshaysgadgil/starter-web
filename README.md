@@ -12,7 +12,7 @@ A lot of lectures are already taken.
 
 #GIT and GITHUB training
 This is the a very good training course for DevOps.
-Learning GIT rebase currently and then GIT Advance
+Learning GIT rebase currently and then GIT Advance. We have done so  much of work together.
 
 #Contribution
 Fork the Repo and raise pull request for review
