@@ -5,13 +5,14 @@
 
    Akshay Gadgil
    gadgilssakshay@gmail.com
-   Business Objects Administrator
+   DevOps
 
 # THANKS
 
-    <name>
+    Akshay Gadgil
 
 # TECHNOLOGY COLOPHON
 
-    HTML5, CSS3
-    jQuery, Modernizr
+    HTML5, CSS3, Angular 
+    jQuery, Modernizr, AJAX
+    Docker, Java Programming
