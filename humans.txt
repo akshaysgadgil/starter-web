@@ -9,7 +9,7 @@
 
 # THANKS
 
-    Akshay Gadgil
+   Thank you for the lecture on Devops
 
 # TECHNOLOGY COLOPHON
 
