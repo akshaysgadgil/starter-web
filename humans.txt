@@ -5,11 +5,11 @@
 
    Akshay Gadgil
    gadgilssakshay@gmail.com
-   Business Objects Administrator
+   DevOps
 
 # THANKS
 
-    <name>
+    Akshay Gadgil
 
 # TECHNOLOGY COLOPHON
 
