@@ -3,6 +3,7 @@
 Hi, I am modifying the file before rebase
 
 Doing some changes in local repos
+Adding Important notes on git STASH
 
 This is the modified file in mybranch BRANCH
 
